@@ -8,4 +8,4 @@ This code allows you to select the currency of the purchase and the currency of 
 You should just enter the sale or purchase amount in this app and true rate will be defined automatically.
 
 ## Function count()
-calculates the amount of purchase / sale of currency depending on the initial data
+Calculates the amount of purchase / sale of currency depending on the initial data
